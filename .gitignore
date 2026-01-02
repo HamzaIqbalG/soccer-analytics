@@ -18,3 +18,5 @@ runs/
 
 # OS junk (Mac)
 .DS_Store
+
+*.csv
