@@ -7,7 +7,7 @@
 ## 🎥 Project Demo
 
 ### 1. The Vision Engine (YOLOv8x)
-*Real-time multi-object tracking detecting players, referees, and ball possession in high-definition.*
+*Real-time multi-object tracking detecting players in high-definition.*
 
 ![Player Tracking Demo](result.gif)
 
